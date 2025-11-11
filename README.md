@@ -92,3 +92,6 @@ The script will:
 
 ---
 
+## Acknowledgments
+This project was developed as part of the coursework for COMP70028 Reinforcement Learning at Imperial College London.
+We would like to thank the course instructors and teaching assistants for their guidance.
